@@ -1,3 +1,6 @@
 # Project dependencies
 transformers
 torch
+pandas
+numpy
+matplotlib.pyplot
