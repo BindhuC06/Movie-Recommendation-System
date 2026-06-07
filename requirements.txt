@@ -1,6 +1,6 @@
-# Project dependencies
-transformers
+sentence-transformers
 torch
 pandas
 numpy
 matplotlib
+faiss-cpu
